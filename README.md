@@ -1,1 +1,1 @@
-​	To better understand the Asymmetric UI dark patterns(AUI) on mobile devices, we design a user study by asking users’ experiences of interacting with AUI. 
+为了更好地理解移动设备上的非对称诱导界面（AUI），我们通过询问用户与AUI交互的体验来设计一项用户调查。
